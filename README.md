@@ -72,5 +72,7 @@ By default, the application applies two migrations: create tables, and fill tabl
 
 ### Using:
 The base API endpoint is: http://localhost:8000/api/v1/
+
 The API documentation: http://localhost:8000/docs
+
 The GUI for PostgeSQL: http://localhost:8080/
