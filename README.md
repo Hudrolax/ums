@@ -57,7 +57,7 @@ The project also implements unit-tests for data models and API endpoints.
 
 ### Install:
 1. Clone the repository:
-```https://github.com/Hudrolax/ums.git```
+```git clone https://github.com/Hudrolax/ums.git```
 2. Open the project folder: ```cd ums```
 3. Make .env file and fill it. You might copy .env-exapmle ```cp .env-example .env```
 For testing, you have to set environ variable DEV=true.
